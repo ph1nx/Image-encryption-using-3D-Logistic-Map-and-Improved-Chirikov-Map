@@ -1,10 +1,10 @@
 # Image Encryption using 3D Logistic Map and Improved Chirikov Map
 
-A MATLAB implementation of a novel image encryption algorithm that combines 3D Logistic Map and Improved Chirikov Map for secure and robust image encryption with enhanced randomization and cryptographic strength.
+A MATLAB implementation of a novel image encryption algorithm that combines 3D Logistic Map and Improved Chirikov Map for secure and robust image encryption with enhanced randomization and cryptographic strength. ([Research Paper](https://ieeexplore.ieee.org/document/10009076))
 
 ## 🔒 Overview
 
-This repository contains the **original implementation** of the scripts used in the research paper "A Novel Image Encryption using 3D Logistic Map and Improved Chirikov Map" published in the 2022 International Conference on Advances in Computing, Communication and Materials (ICACCM). The implementation utilizes chaotic maps for superior security performance through a two-phase approach combining confusion and diffusion techniques to achieve high-level encryption security.
+This repository contains the **original implementation** of the scripts used in the research paper "[A Novel Image Encryption using 3D Logistic Map and Improved Chirikov Map](https://ieeexplore.ieee.org/document/10009076)" published in the 2022 International Conference on Advances in Computing, Communication and Materials (ICACCM). The implementation utilizes chaotic maps for superior security performance through a two-phase approach combining confusion and diffusion techniques to achieve high-level encryption security.
 
 ## ✨ Key Features
 
